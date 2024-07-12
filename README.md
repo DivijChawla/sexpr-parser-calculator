@@ -19,3 +19,7 @@ git clone https://github.com/DivijChawla/sexpr-parser-calculator.git
 ~~~
 cd sexpr-parser-calculator
 ~~~
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
